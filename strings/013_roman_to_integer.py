@@ -12,9 +12,6 @@ Approach:
 - Compare the current symbol with the next one:
   - If current value is smaller than the next, subtract it.
   - Otherwise, add it.
-
-Time Complexity: O(n)
-Space Complexity: O(1)
 """
 
 

@@ -8,9 +8,6 @@ different numbers such that their sum equals the target.
 Approach:
 - Use a brute-force nested loop.
 - Check every possible pair until the correct sum is found.
-
-Time Complexity: O(n^2)
-Space Complexity: O(1)
 """
 
 from typing import List
